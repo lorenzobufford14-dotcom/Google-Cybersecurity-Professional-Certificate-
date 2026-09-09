@@ -2,6 +2,12 @@
 
 **Certification:** Google Cybersecurity Professional Certificate  
 **Status:** Completed  
+---
+
+### 📜 Verified Credential
+* **Coursera Course Certificate:** [View Verified Certificate](https://www.coursera.org/account/accomplishments/verify/GJX67VL6CO8D?utm_source=ios&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+
+---
 
 ---
 

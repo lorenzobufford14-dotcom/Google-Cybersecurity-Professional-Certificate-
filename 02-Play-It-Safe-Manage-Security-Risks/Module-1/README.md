@@ -69,5 +69,13 @@ This module explores the 8 CISSP Security Domains, risk management frameworks (N
   * Conducting secure design reviews during development phases and code analysis before deployment.
   * Verifying proper encryption configurations on specialized endpoint devices (e.g., healthcare devices storing private patient data).
 
+## Navigating Threats, Risks, vulnerabilities
+
+
+
+
+
+
+
 ---
 ## Navigating Threats, Risks, and Vulnerabilities 

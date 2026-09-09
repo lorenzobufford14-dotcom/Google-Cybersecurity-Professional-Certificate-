@@ -1,7 +1,7 @@
 # Course 2: Play It Safe - Manage Security Risks
 
 **Certification:** Google Cybersecurity Professional Certificate  
-**Module 1:** Security Domains & Risk Management  
+**Module 1:** Part 1 Security Domains & Risk Management  
 **Status:** In Progress  
 
 ---

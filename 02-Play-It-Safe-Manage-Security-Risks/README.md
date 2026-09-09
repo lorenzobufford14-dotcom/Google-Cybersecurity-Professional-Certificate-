@@ -1,1 +1,1 @@
-* Course 2: Play It Safe: Manage Security Risks
+# Course 2: Play It Safe: Manage Security Risks

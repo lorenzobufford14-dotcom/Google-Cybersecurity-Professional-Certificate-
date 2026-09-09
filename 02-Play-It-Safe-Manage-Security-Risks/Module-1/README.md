@@ -1,7 +1,7 @@
 # Course 2: Play It Safe - Manage Security Risks
 
 **Certification:** Google Cybersecurity Professional Certificate  
-**Module 1:** Part 1 Security Domains & Risk Management  
+**Module 1:** Security Domains & Risk Management  
 **Status:** In Progress  
 
 ---
@@ -69,3 +69,5 @@ This module explores the 8 CISSP Security Domains, risk management frameworks (N
   * Conducting secure design reviews during development phases and code analysis before deployment.
   * Verifying proper encryption configurations on specialized endpoint devices (e.g., healthcare devices storing private patient data).
 
+---
+## Navigating Threats, Risks, and Vulnerabilities 
